@@ -1,7 +1,6 @@
 # Low-Power Single-Ended Operational Amplifier | Sky130 PDK
-
-This project is part of **CMOS Analog IC Design and Simulation ’25 (Assignment 4)**.  
-The objective is to design and simulate a **low-power single-ended operational amplifier** in the **SkyWater 130nm PDK**, intended to function as a **unity-gain buffer for low-frequency analog signals (1–10 kHz)**.
+  
+The objective of this project is to design and simulate a **low-power single-ended operational amplifier** in the **SkyWater 130nm PDK**, intended to function as a **non inverting unity-gain buffer for low-frequency analog signals (1–10 kHz)**.
 
 ---
 
@@ -58,6 +57,7 @@ The objective is to design and simulate a **low-power single-ended operational a
 - Perform post-layout simulation  
 
 ---
+
 
 
 
