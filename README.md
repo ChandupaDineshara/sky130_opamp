@@ -43,7 +43,7 @@ The objective is to design and simulate a **low-power single-ended operational a
 
 ## 📷 Project Snapshots
 - **Schematic**  
-  ![Schematic](./images/schematic.png)  
+  ![Schematic](assets/Schematic.png)  
 
 - **Practice Layout (Not Final)**  
   ![Layout](./images/layout.png)  
@@ -58,6 +58,7 @@ The objective is to design and simulate a **low-power single-ended operational a
 - Perform post-layout simulation  
 
 ---
+
 
 
 
