@@ -46,7 +46,7 @@ The objective is to design and simulate a **low-power single-ended operational a
   ![Schematic](assets/Schematic.png)  
 
 - **Practice Layout (Not Final)**  
-  ![Layout](./images/layout.png)  
+  ![Layout](assets/layout1.png)  
   > ⚠️ This layout is only for practice and familiarization, not the final verified design.  
 
 ---
@@ -58,6 +58,7 @@ The objective is to design and simulate a **low-power single-ended operational a
 - Perform post-layout simulation  
 
 ---
+
 
 
 
