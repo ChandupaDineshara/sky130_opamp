@@ -59,10 +59,7 @@ The objective is to design and simulate a **low-power single-ended operational a
 
 ---
 
-## 📚 References
-- [SkyWater SKY130 PDK](https://github.com/google/skywater-pdk)  
-- [EE628 Analog Design Flow](https://github.com/bmurmann/EE628/tree/main/3_Tools)  
 
----
+
 
 
